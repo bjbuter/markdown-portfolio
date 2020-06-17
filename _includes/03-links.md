@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Previous Github course I finished.](https://bjbuter.github.io/github-slideshow/#/)
